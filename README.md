@@ -1,1 +1,1 @@
-# image-processing-with-pillow
+# image-processing-with-tesseract
